@@ -103,7 +103,7 @@ a {
 	display: flex;
 	flex-wrap: wrap;
 	align-content: flex-end;
-	background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3)), url(../images/maocai.jpg);
+	background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3)), url(images/maocai.jpg);
 	background-size: cover;
 	width:850px ;
 	height:500px;
@@ -114,7 +114,7 @@ a {
 }
 
 .maocai:hover {
-	background: linear-gradient(rgba(0,0,0,.6), rgba(0,0,0,.6)), url(../images/maocai.jpg);
+	background: linear-gradient(rgba(0,0,0,.6), rgba(0,0,0,.6)), url(images/maocai.jpg);
 	background-size: cover;
 	width:850px ;
 	height:500px;
@@ -139,7 +139,7 @@ a {
 	display: flex;
 	flex-wrap: wrap;
 	align-content: flex-end;
-	background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3)),  url(../images/beer.jpg);
+	background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3)),  url(images/beer.jpg);
 	background-position: center;
 	background-size: cover;
 	width: 410px;
@@ -150,7 +150,7 @@ a {
 }
 
 .beer:hover {
-	background: linear-gradient(rgba(0,0,0,.6), rgba(0,0,0,.6)),  url(../images/beer.jpg);
+	background: linear-gradient(rgba(0,0,0,.6), rgba(0,0,0,.6)),  url(images/beer.jpg);
 	background-position: center;
 	background-size: cover;
 	width: 410px;
@@ -162,7 +162,7 @@ a {
 	display: flex;
 	flex-wrap: wrap;
 	align-content: flex-end;
-	background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3)), url(../images/trdlo.jpg);
+	background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3)), url(images/trdlo.jpg);
 	background-size: cover;
 	background-position: center;
 	width: 410px;
@@ -173,7 +173,7 @@ a {
 }
 
 .trdlo:hover {
-	background: linear-gradient(rgba(0,0,0,.6), rgba(0,0,0,.6)), url(../images/trdlo.jpg);
+	background: linear-gradient(rgba(0,0,0,.6), rgba(0,0,0,.6)), url(images/trdlo.jpg);
 	background-size: cover;
 	background-position: center;
 	width: 410px;
@@ -184,7 +184,7 @@ a {
 	display: flex;
 	flex-wrap: wrap;
 	align-content: flex-end;
-	background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3)),  url(../images/hotpot.jpg);
+	background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3)),  url(images/hotpot.jpg);
 	background-size: cover;
 	background-position: center;
 	width: 400px;
@@ -195,7 +195,7 @@ a {
 }
 
 .hotpot:hover {
-	background: linear-gradient(rgba(0,0,0,.6), rgba(0,0,0,.6)),  url(../images/hotpot.jpg);
+	background: linear-gradient(rgba(0,0,0,.6), rgba(0,0,0,.6)),  url(images/hotpot.jpg);
 	background-size: cover;
 	background-position: center;
 	width: 400px;
@@ -206,7 +206,7 @@ a {
 	display: flex;
 	flex-wrap: wrap;
 	align-content: flex-end;
-	background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3)),  url(../images/koleno.jpg);
+	background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3)),  url(images/koleno.jpg);
 	background-size: cover;
 	background-position: center;
 	width: 400px;
@@ -217,7 +217,7 @@ a {
 }
 
 .koleno:hover {
-	background: linear-gradient(rgba(0,0,0,.6), rgba(0,0,0,.6)),  url(../images/koleno.jpg);
+	background: linear-gradient(rgba(0,0,0,.6), rgba(0,0,0,.6)),  url(images/koleno.jpg);
 	background-size: cover;
 	background-position: center;
 	width: 400px;
